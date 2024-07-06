@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Surya Moturi</h1>)
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-moturi&label=Profile%20views&color=0e75b6&style=flat" alt="surya-moturi" /> </p>
 
@@ -19,7 +19,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/surya-moturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-moturi" height="30" width="40" /></a>
 <a href="https://github.com/surya-moturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="surya-moturi" height="30" width="40" /></a>
-<a href="https://surya-moturi.github.io/My-Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="surya-moturi.github.io/My-Portfolio/" height="30" width="40" /></a>
+<a href="https://surya-moturi.github.io/My-Portfolio/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +37,7 @@
 </p>
 
 
-[![Surya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=surya-moturi&&theme=xcode)](https://github.com/surya-moturi)
+(https://activity-graph.herokuapp.com/graph?username=surya-moturi&&theme=xcode)](https://github.com/surya-moturi)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-moturi&show_icons=true&locale=en&layout=compact" alt="surya-moturi" /></p>
 
