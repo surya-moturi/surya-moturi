@@ -34,17 +34,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-<a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-link" target="_blank" rel="noreferrer">Data Analysis Using Excel - Great Learning</a><br>
-<a href="https://www.theforage.com/virtual-internships/prototype/your-certificate-link" target="_blank" rel="noreferrer">PWC: Power BI Job Simulation - Forage</a><br>
-<a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-link" target="_blank" rel="noreferrer">MySQL Basics - Great Learning</a><br>
-<a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-link" target="_blank" rel="noreferrer">Python for Data Analysis - Great Learning</a><br>
-<a href="https://www.theforage.com/virtual-internships/prototype/your-certificate-link" target="_blank" rel="noreferrer">Accenture: Data Analytics and Visualization Job Simulation - Forage</a><br>
-<a href="https://trailhead.salesforce.com/en/content/learn/modules/your-certificate-link" target="_blank" rel="noreferrer">Salesforce Administrator Virtual Internship</a><br>
-<a href="https://www.theforage.com/virtual-internships/prototype/your-certificate-link" target="_blank" rel="noreferrer">Cybersecurity Virtual Internship</a><br>
-<a href="https://learning.tcsionhub.in/courses/your-certificate-link" target="_blank" rel="noreferrer">TCS iON Career Edge - Young Professional</a>
-</p>
 
 [![Surya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=surya-moturi&&theme=xcode)](https://github.com/surya-moturi)
 
@@ -56,35 +45,3 @@
 
 ---
 
-# Surya Moturi
-
-Rajahmundry | +91 9346164115 | surya.moturi.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/surya-moturi) | [GitHub](https://github.com/surya-moturi) | [Portfolio](https://surya-moturi.github.io/My-Portfolio/)
-
-## SKILLS
-- Advanced Excel
-- Power BI
-- MySQL
-- Python
-- VS Code
-- Git & GitHub
-- Windows
-- Linux
-- Business Math
-- Statistics
-- Analytical Mindset
-- Effective Communication
-- Presentation Skills
-- AI Enabled
-
-## EDUCATION
-**Government Autonomous Degree College**  
-B.VOC in Renewable Energy Management | CGPA: 8.66  
-Jan 2021 - Sep 2023 | Rajahmundry
-
-**Government Junior College**  
-Intermediate in MPC (Mathematics, Physics, and Chemistry) | CGPA: 6.03  
-Jun 2019 - Mar 2020 | Rajahmundry
-
-**SRMCH School**  
-SSC (10th Class) | GPA: 9.0  
-Jun 2017 - Mar 2018 | Rajahmundry
